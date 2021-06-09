@@ -1,0 +1,574 @@
+﻿Place,State,City_Clean,Total Population,Native Born Population,Foreign-Born Population,Native Born Uninsured,Foreign-Born Uninsured
+Apache Junction city, Arizona,apache junction,40504,37882,2622,2870,258
+Avondale city, Arizona,avondale,84315,70597,13718,6258,2353
+Benson city, Arizona,benson,4829,4756,73,253,11
+Bisbee city, Arizona,bisbee,4943,4486,457,569,81
+Buckeye city, Arizona,buckeye,63138,56288,6850,3759,943
+Bullhead City city, Arizona,bullhead,40123,36692,3431,3002,271
+Camp Verde town, Arizona,camp verde,10539,9892,647,855,209
+Carefree town, Arizona,carefree,3769,3575,194,179,0
+Casa Grande city, Arizona,casa grande,55577,49844,5733,4090,880
+Cave Creek town, Arizona,cave creek,5670,5339,331,557,53
+Chandler city, Arizona,chandler,252383,212650,39733,12603,4582
+Chino Valley town, Arizona,chino valley,11641,10908,733,1146,243
+Clarkdale town, Arizona,clarkdale,4271,3986,285,351,60
+Clifton town, Arizona,clifton,3658,3569,89,118,0
+Colorado City town, Arizona,colorado,4836,4836,0,1021,0
+Coolidge city, Arizona,coolidge,12685,11920,765,1202,49
+Cottonwood city, Arizona,cottonwood,11883,11326,557,1599,158
+Dewey-Humboldt town, Arizona,dewey-humboldt,4053,3896,157,352,18
+Douglas city, Arizona,douglas,11126,8218,2908,435,363
+Duncan town, Arizona,duncan,745,724,21,43,0
+Eagar town, Arizona,eagar,4890,4739,151,217,93
+El Mirage city, Arizona,el mirage,35301,30752,4549,2910,839
+Eloy city, Arizona,eloy,9427,7606,1821,570,416
+Flagstaff city, Arizona,flagstaff,71707,67494,4213,6118,626
+Florence town, Arizona,florence,11158,10397,761,595,45
+Fountain Hills town, Arizona,fountain hills,24712,22654,2058,568,128
+Fredonia town, Arizona,fredonia,1040,1018,22,223,20
+Gila Bend town, Arizona,gila bend,1853,1408,445,175,86
+Gilbert town, Arizona,gilbert,243123,220492,22631,10999,862
+Glendale city, Arizona,glendale,245609,202573,43036,20351,8632
+Globe city, Arizona,globe,7027,6792,235,714,39
+Goodyear city, Arizona,goodyear,76073,66524,9549,4412,741
+Guadalupe town, Arizona,guadalupe,6482,5840,642,740,432
+Hayden town, Arizona,hayden,525,486,39,63,16
+Holbrook city, Arizona,holbrook,4665,4425,240,121,35
+Huachuca City town, Arizona,huachuca,1944,1716,228,153,61
+Jerome town, Arizona,jerome,474,449,25,59,4
+Kearny town, Arizona,kearny,2250,2138,112,140,0
+Kingman city, Arizona,kingman,28279,27257,1022,1699,71
+Lake Havasu City city, Arizona,lake havasu,54350,50214,4136,4125,802
+Litchfield Park city, Arizona,litchfield park,6015,5479,536,185,4
+Mammoth town, Arizona,mammoth,1653,1457,196,109,18
+Marana town, Arizona,marana,44504,40068,4436,1498,554
+Maricopa city, Arizona,maricopa,48578,42920,5658,2859,400
+Mesa city, Arizona,mesa,497968,439049,58919,42099,16658
+Miami town, Arizona,miami,2094,1965,129,194,0
+Nogales city, Arizona,nogales,19889,11500,8389,943,885
+Oro Valley town, Arizona,oro valley,44495,40775,3720,1031,133
+Page city, Arizona,page,7499,7290,209,924,88
+Paradise Valley town, Arizona,paradise valley,14350,12920,1430,451,65
+Parker town, Arizona,parker,3032,2661,371,443,40
+Patagonia town, Arizona,patagonia,772,715,57,25,0
+Payson town, Arizona,payson,15267,14488,779,1443,182
+Peoria city, Arizona,peoria,166986,151706,15280,8555,1213
+Phoenix city, Arizona,phoenix,1622332,1306192,316140,130096,83591
+Pima town, Arizona,pima,2513,2498,15,321,0
+Pinetop-Lakeside town, Arizona,pinetop-lakeside,4370,4152,218,235,29
+Prescott city, Arizona,prescott,42289,40131,2158,2111,82
+Prescott Valley town, Arizona,prescott valley,44150,40709,3441,3210,634
+Quartzsite town, Arizona,quartzsite,3714,3411,303,462,303
+Queen Creek town, Arizona,queen creek,43084,40476,2608,1848,242
+Safford city, Arizona,safford,9456,9352,104,265,0
+Sahuarita town, Arizona,sahuarita,29669,26709,2960,867,164
+St. Johns city, Arizona,st. johns,3384,3225,159,55,82
+San Luis city, Arizona,san luis,31239,14898,16341,2508,2778
+Scottsdale city, Arizona,scottsdale,249450,219531,29919,10250,2799
+Sedona city, Arizona,sedona,10322,9090,1232,686,143
+Show Low city, Arizona,show low,11054,10284,770,1340,171
+Sierra Vista city, Arizona,sierra vista,39549,36105,3444,1704,244
+Snowflake town, Arizona,snowflake,5811,5757,54,718,15
+Somerton city, Arizona,somerton,16146,9603,6543,1457,1031
+South Tucson city, Arizona,south tucson,5650,4727,923,473,202
+Springerville town, Arizona,springerville,2031,1946,85,174,23
+Star Valley town, Arizona,star valley,1603,1589,14,66,0
+Superior town, Arizona,superior,3071,2783,288,78,14
+Surprise city, Arizona,surprise,134545,123079,11466,7293,672
+Taylor town, Arizona,taylor,4202,4077,125,559,35
+Tempe city, Arizona,tempe,187062,157113,29949,12791,3080
+Thatcher town, Arizona,thatcher,5043,4953,90,250,0
+Tolleson city, Arizona,tolleson,7237,5519,1718,498,505
+Tombstone city, Arizona,tombstone,1209,1184,25,103,0
+Tucson city, Arizona,tucson,523605,442059,81546,38816,18055
+Tusayan town, Arizona,tusayan,297,225,72,38,39
+Wellton town, Arizona,wellton,3007,2004,1003,245,242
+Wickenburg town, Arizona,wickenburg,7457,7209,248,1151,52
+Willcox city, Arizona,willcox,3501,3207,294,230,2
+Williams city, Arizona,williams,3169,2948,221,243,89
+Winkelman town, Arizona,winkelman,293,287,6,39,3
+Winslow city, Arizona,winslow,7633,7436,197,966,86
+Youngtown town, Arizona,young town,6585,5673,912,635,146
+Yuma city, Arizona,yuma,92032,73227,18805,7337,1809
+Adelanto city, California,adelanto,31270,24889,6381,1982,1293
+Agoura Hills city, California,agoura hills,20442,15954,4488,537,130
+Alameda city, California,alameda,77069,57522,19547,1456,668
+Albany city, California,albany,19749,13473,6276,323,159
+Alhambra city, California,alhambra,84041,42610,41431,1929,2404
+Aliso Viejo city, California,aliso viejo,50631,39391,11240,892,409
+Alturas city, California,alturas,2543,2402,141,232,0
+Amador City city, California,amador,167,163,4,0,0
+American Canyon city, California,american canyon,20248,13143,7105,336,256
+Anaheim city, California,anaheim,347937,220797,127140,13260,25071
+Anderson city, California,anderson,10407,9889,518,759,25
+Angels city, California,angels,3875,3746,129,206,0
+Antioch city, California,antioch,110870,86022,24848,4482,1994
+Apple Valley town, California,apple valley,72359,64888,7471,2947,738
+Arcadia city, California,arcadia,57927,29526,28401,773,1351
+Arcata city, California,arcata,18169,17086,1083,1232,55
+Arroyo Grande city, California,arroyo grande,17880,16385,1495,840,128
+Artesia city, California,artesia,16361,8571,7790,641,747
+Arvin city, California,arvin,21148,13089,8059,926,1470
+Atascadero city, California,atascadero,30000,27897,2103,1463,276
+Atherton town, California,atherton,7168,5621,1547,36,13
+Atwater city, California,atwater,29191,22675,6516,1147,890
+Auburn city, California,auburn,13875,12805,1070,521,28
+Avalon city, California,avalon,3714,3011,703,210,136
+Avenal city, California,avenal,9989,5824,4165,325,984
+Azusa city, California,azusa,49587,35411,14176,2095,1492
+Bakersfield city, California,bakersfield,376003,304792,71211,16120,9268
+Baldwin Park city, California,baldwin park,75552,41981,33571,3028,3650
+Banning city, California,banning,29956,24193,5763,1412,505
+Barstow city, California,barstow,23754,21602,2152,1242,546
+Beaumont city, California,beaumont,46957,38364,8593,1839,621
+Bell city, California,bell,35589,20799,14790,1814,3127
+Bellflower city, California,bellflower,76809,52538,24271,3653,3252
+Bell Gardens city, California,bell gardens,42163,24363,17800,2166,4284
+Belmont city, California,belmont,26881,18669,8212,317,194
+Belvedere city, California,belvedere,2134,1842,292,16,5
+Benicia city, California,benicia,28143,24451,3692,439,95
+Berkeley city, California,berkeley,121126,95582,25544,2310,985
+Beverly Hills city, California,beverly hills,34137,22494,11643,516,511
+Big Bear Lake city, California,big bear lake,5220,4495,725,527,103
+Biggs city, California,biggs,2175,1803,372,65,31
+Bishop city, California,bishop,3674,3236,438,210,0
+Blue Lake city, California,blue lake,902,898,4,81,0
+Blythe city, California,blythe,13298,11389,1909,886,142
+Bradbury city, California,bradbury,833,557,276,5,25
+Brawley city, California,brawley,25984,19250,6734,971,616
+Brea city, California,brea,42678,33402,9276,1294,567
+Brentwood city, California,brentwood,61865,52833,9032,1047,270
+Brisbane city, California,brisbane,4697,3335,1362,20,23
+Buellton city, California,buellton,5082,4216,866,208,0
+Buena Park city, California,buena park,82236,51611,30625,2352,3604
+Burbank city, California,burbank,103357,70573,32784,3851,1716
+Burlingame city, California,burlingame,30226,21351,8875,620,456
+Calabasas city, California,calabasas,23988,17687,6301,577,310
+Calexico city, California,calexico,39941,22415,17526,1669,1201
+California City city, California,california,11444,10604,840,532,72
+Calimesa city, California,calimesa,8796,8077,719,376,46
+Calipatria city, California,calipatria,3293,2577,716,205,33
+Calistoga city, California,calistoga,5194,3907,1287,169,99
+Camarillo city, California,camarillo,67418,56844,10574,2094,882
+Campbell city, California,campbell,42030,31269,10761,984,678
+Canyon Lake city, California,canyon lake,11170,10454,716,299,0
+Capitola city, California,capitola,9998,8776,1222,417,299
+Carlsbad city, California,carlsbad,113484,97111,16373,4123,977
+Carmel-by-the-Sea city, California,carmel-by-the-sea,3810,3338,472,42,0
+Carpinteria city, California,carpinteria,13505,10225,3280,520,708
+Carson city, California,carson,91949,59981,31968,3015,2321
+Cathedral City city, California,cathedral,54283,36892,17391,2385,3514
+Ceres city, California,ceres,47650,35989,11661,1492,1039
+Cerritos city, California,cerritos,50049,28221,21828,1258,696
+Chico city, California,chico,93980,86814,7166,5373,708
+Chino city, California,chino,74551,55637,18914,3533,2324
+Chino Hills city, California,chino hills,80445,56665,23780,1992,1168
+Chowchilla city, California,chowchilla,11176,9184,1992,581,278
+Chula Vista city, California,chula vista,264327,181475,82852,10409,6877
+Citrus Heights city, California,citrus heights,87116,75417,11699,3668,1117
+Claremont city, California,claremont,35825,29059,6766,1108,270
+Clayton city, California,clayton,12083,10761,1322,89,0
+Clearlake city, California,clearlake,15270,13909,1361,896,215
+Cloverdale city, California,cloverdale,8695,6987,1708,212,344
+Clovis city, California,clovis,108641,95346,13295,3595,945
+Coachella city, California,coachella,45181,27527,17654,2642,3678
+Coalinga city, California,coalinga,13516,10888,2628,445,222
+Colfax city, California,colfax,2057,2032,25,121,0
+Colma town, California,colma,1302,861,441,41,26
+Colton city, California,colton,54307,42628,11679,2323,1584
+Colusa city, California,colusa,6044,4752,1292,146,244
+Commerce city, California,commerce,12740,8132,4608,727,725
+Compton city, California,compton,96655,68301,28354,4677,5391
+Concord city, California,concord,128468,93044,35424,2901,4707
+Corcoran city, California,corcoran,13091,9934,3157,404,503
+Corning city, California,corning,7590,6536,1054,153,307
+Corona city, California,corona,166395,126028,40367,7658,5577
+Coronado city, California,coronado,19259,17175,2084,379,67
+Corte Madera town, California,corte madera,9838,8614,1224,71,31
+Costa Mesa city, California,costa mesa,112642,84448,28194,5471,6655
+Cotati city, California,cotati,7454,6476,978,159,67
+Covina city, California,covina,47803,35689,12114,2158,863
+Crescent City city, California,crescent,3902,3564,338,181,0
+Cudahy city, California,cudahy,23890,13635,10255,1515,2459
+Culver City city, California,culver,38963,28931,10032,945,474
+Cupertino city, California,cupertino,59931,28025,31906,475,489
+Cypress city, California,cypress,48881,34562,14319,1294,913
+Daly City city, California,daly,106219,51098,55121,1907,2235
+Dana Point city, California,dana point,33647,28820,4827,1404,603
+Danville town, California,danville,44526,37407,7119,487,299
+Davis city, California,davis,68326,53938,14388,1555,686
+Delano city, California,delano,45183,26178,19005,1146,2108
+Del Mar city, California,del mar,4331,3475,856,79,23
+Del Rey Oaks city, California,del rey oaks,1505,1316,189,57,22
+Desert Hot Springs city, California,desert hot springs,28585,21563,7022,2003,1457
+Diamond Bar city, California,diamond bar,56154,30592,25562,1239,1298
+Dinuba city, California,dinuba,23906,17329,6577,904,1155
+Dixon city, California,dixon,20022,15614,4408,737,563
+Dorris city, California,dorris,908,737,171,79,71
+Dos Palos city, California,dos palos,5324,4001,1323,355,323
+Downey city, California,downey,111802,75324,36478,5843,4247
+Duarte city, California,duarte,21321,14337,6984,979,500
+Dublin city, California,dublin,59928,36330,23598,727,749
+Dunsmuir city, California,dunsmuir,1724,1610,114,182,4
+East Palo Alto city, California,east palo alto,29564,17963,11601,1023,1588
+Eastvale city, California,eastvale,61909,45601,16308,1522,630
+El Cajon city, California,el cajon,101356,71648,29708,4160,2679
+El Centro city, California,el centro,43587,30146,13441,2081,850
+El Cerrito city, California,el cerrito,25355,17398,7957,539,371
+Elk Grove city, California,elk grove,170455,129417,41038,2613,700
+El Monte city, California,el monte,114637,56593,58044,4300,9553
+El Paso de Robles (Paso Robles) city, California,el paso de robles (paso robles),31809,25952,5857,1906,1381
+El Segundo city, California,el segundo,16717,14394,2323,385,144
+Emeryville city, California,emeryville,11892,8327,3565,282,92
+Encinitas city, California,encinitas,62274,54376,7898,2034,764
+Escalon city, California,escalon,7538,6958,580,269,34
+Escondido city, California,escondido,149990,108184,41806,7653,9245
+Etna city, California,etna,735,724,11,35,0
+Eureka city, California,eureka,26492,24534,1958,1766,127
+Exeter city, California,exeter,10445,9023,1422,391,471
+Fairfax town, California,fairfax,7561,6677,884,47,153
+Fairfield city, California,fairfield,112613,87221,25392,2981,1604
+Farmersville city, California,farmersville,10716,7325,3391,452,549
+Ferndale city, California,ferndale,1377,1314,63,68,3
+Fillmore city, California,fillmore,15584,12652,2932,609,451
+Firebaugh city, California,firebaugh,8300,4526,3774,169,1005
+Folsom city, California,folsom,73214,60462,12752,1340,355
+Fontana city, California,fontana,210396,153913,56483,9466,8371
+Fort Bragg city, California,fort bragg,7197,5788,1409,209,419
+Fort Jones city, California,fort jones,689,666,23,42,5
+Fortuna city, California,fortuna,12129,11037,1092,595,255
+Foster City city, California,foster,33904,18617,15287,235,377
+Fountain Valley city, California,fountain valley,55830,38701,17129,1524,906
+Fowler city, California,fowler,6479,5264,1215,335,106
+Fremont city, California,fremont,235044,120708,114336,1784,1888
+Fresno city, California,fresno,519765,413413,106352,24977,14953
+Fullerton city, California,fullerton,138721,97050,41671,3553,4534
+Galt city, California,galt,25847,21486,4361,932,462
+Gardena city, California,gardena,59099,37439,21660,2832,2589
+Garden Grove city, California,garden grove,172576,96075,76501,5494,6174
+Gilroy city, California,gilroy,56596,42576,14020,1709,1676
+Glendale city, California,glendale,198831,93039,105792,5290,5911
+Glendora city, California,glendora,51095,41195,9900,1722,504
+Goleta city, California,goleta,30781,23941,6840,441,561
+Gonzales city, California,gonzales,8375,5656,2719,353,582
+Grand Terrace city, California,grand terrace,12409,10939,1470,483,60
+Grass Valley city, California,grass valley,12389,11744,645,475,72
+Greenfield city, California,greenfield,17373,10302,7071,320,1717
+Gridley city, California,gridley,6662,5205,1457,220,45
+Grover Beach city, California,grover beach,13475,12301,1174,895,213
+Guadalupe city, California,guadalupe,7451,4596,2855,293,468
+Gustine city, California,gustine,5813,4350,1463,185,474
+Half Moon Bay city, California,half moon bay,12834,9711,3123,216,195
+Hanford city, California,hanford,55524,45515,10009,1857,1721
+Hawaiian Gardens city, California,hawaiian gardens,14330,8200,6130,509,1139
+Hawthorne city, California,hawthorne,86703,55785,30918,4570,5319
+Hayward city, California,hayward,158327,96849,61478,3099,3433
+Healdsburg city, California,healdsburg,11788,10005,1783,525,287
+Hemet city, California,hemet,83883,70249,13634,4933,1755
+Hercules city, California,hercules,25542,16968,8574,439,381
+Hermosa Beach city, California,hermosa beach,19390,17267,2123,467,24
+Hesperia city, California,hesperia,94030,76979,17051,4340,2376
+Hidden Hills city, California,hidden hills,1751,1493,258,21,4
+Highland city, California,highland,54908,43402,11506,2324,2496
+Hillsborough town, California,hillsborough,11447,8677,2770,71,73
+Hollister city, California,hollister,38539,30031,8508,1449,1591
+Holtville city, California,holtville,6527,4126,2401,251,168
+Hughson city, California,hughson,7460,6451,1009,134,92
+Huntington Beach city, California,huntington beach,199813,167560,32253,7228,2271
+Huntington Park city, California,huntington park,58254,31332,26922,2800,6588
+Huron city, California,huron,7115,3418,3697,195,763
+Imperial city, California,imperial,17414,13956,3458,656,261
+Imperial Beach city, California,imperial beach,26346,20844,5502,1850,960
+Indian Wells city, California,indian wells,5370,4791,579,79,0
+Indio city, California,indio,88853,68473,20380,3431,2770
+Industry city, California,industry,361,325,36,4,20
+Inglewood city, California,inglewood,109223,78079,31144,6392,5835
+Ione city, California,ione,4411,4181,230,93,0
+Irvine city, California,irvine,272866,160490,112376,5100,5561
+Irwindale city, California,irwindale,1394,1108,286,51,12
+Isleton city, California,isleton,544,422,122,40,51
+Jackson city, California,jackson,4539,4146,393,108,67
+Jurupa Valley city, California,jurupa valley,105020,77043,27977,7176,5417
+Kerman city, California,kerman,14810,10272,4538,405,619
+King City city, California,king,13856,7019,6837,245,2095
+Kingsburg city, California,kingsburg,11857,10460,1397,413,220
+La Cañada Flintridge city, California,la cañada flintridge,20238,15286,4952,255,97
+Lafayette city, California,lafayette,26207,22216,3991,223,117
+Laguna Beach city, California,laguna beach,23019,19988,3031,698,55
+Laguna Hills city, California,laguna hills,31449,23230,8219,831,641
+Laguna Niguel city, California,laguna niguel,65733,51580,14153,1362,824
+Laguna Woods city, California,laguna woods,16010,10467,5543,50,36
+La Habra city, California,la habra,60382,42980,17402,2434,2878
+La Habra Heights city, California,la habra heights,6567,5096,1471,208,72
+Lake Elsinore city, California,lake elsinore,65596,51482,14114,2985,2034
+Lake Forest city, California,lake forest,83807,63024,20783,2693,1783
+Lakeport city, California,lakeport,4786,4262,524,243,38
+Lakewood city, California,lakewood,80170,62983,17187,2353,1007
+La Mesa city, California,la mesa,58193,49040,9153,2614,678
+La Mirada city, California,la mirada,48447,36181,12266,1278,408
+Lancaster city, California,lancaster,153427,137225,16202,6909,935
+La Palma city, California,la palma,15598,10239,5359,460,175
+La Puente city, California,la puente,39987,23854,16133,2325,2926
+La Quinta city, California,la quinta,41058,34689,6369,1270,886
+Larkspur city, California,larkspur,12225,10116,2109,296,82
+Lathrop city, California,lathrop,22283,14446,7837,424,788
+La Verne city, California,la verne,32015,26779,5236,1037,223
+Lawndale city, California,lawndale,32806,20482,12324,1605,2148
+Lemon Grove city, California,lemon grove,26378,21037,5341,1542,589
+Lemoore city, California,lemoore,25372,21531,3841,1087,138
+Lincoln city, California,lincoln,46941,40152,6789,980,580
+Lindsay city, California,lindsay,13217,8117,5100,480,847
+Live Oak city, California,live oak,8563,6402,2161,361,301
+Livermore city, California,livermore,89467,75406,14061,1113,1298
+Livingston city, California,livingston,14228,8634,5594,417,758
+Lodi city, California,lodi,65251,53455,11796,2242,1799
+Loma Linda city, California,loma linda,23954,17134,6820,698,517
+Lomita city, California,lomita,20379,16275,4104,1111,246
+Lompoc city, California,lompoc,39982,31402,8580,2237,1704
+Long Beach city, California,long beach,464023,347234,116789,20010,15815
+Loomis town, California,loomis,6772,6718,54,166,0
+Los Alamitos city, California,los alamitos,11371,9580,1791,419,102
+Los Altos city, California,los altos,30260,20759,9501,175,78
+Los Altos Hills town, California,los altos hills,8505,5709,2796,5,0
+Los Angeles city, California,los angeles,3939929,2483553,1456376,164103,240558
+Los Banos city, California,los banos,38839,27828,11011,1747,1322
+Los Gatos town, California,los gatos,30397,23728,6669,396,66
+Loyalton city, California,loyalton,1066,1050,16,70,0
+Lynwood city, California,lynwood,68247,42479,25768,4316,5474
+McFarland city, California,mcfarland,13565,8625,4940,437,607
+Madera city, California,madera,64627,45852,18775,2126,3642
+Malibu city, California,malibu,12610,11188,1422,403,166
+Mammoth Lakes town, California,mammoth lakes,8169,5625,2544,500,1079
+Manhattan Beach city, California,manhattan beach,35493,30788,4705,646,113
+Manteca city, California,manteca,78731,65356,13375,2187,1020
+Maricopa city, California,maricopa,1229,1095,134,79,28
+Marina city, California,marina,21891,16731,5160,892,558
+Martinez city, California,martinez,37790,33147,4643,799,118
+Marysville city, California,marysville,11755,10620,1135,798,32
+Maywood city, California,maywood,27206,14485,12721,1214,2770
+Mendota city, California,mendota,11531,5306,6225,212,1743
+Menifee city, California,menifee,89826,76852,12974,3897,912
+Menlo Park city, California,menlo park,33881,25085,8796,480,216
+Merced city, California,merced,81916,63247,18669,3164,2591
+Millbrae city, California,millbrae,22446,13573,8873,270,157
+Mill Valley city, California,mill valley,14264,12422,1842,92,12
+Milpitas city, California,milpitas,77293,36194,41099,552,771
+Mission Viejo city, California,mission viejo,95072,76028,19044,2139,1278
+Modesto city, California,modesto,211112,173011,38101,7771,3274
+Monrovia city, California,monrovia,36709,27113,9596,1289,1105
+Montague city, California,montague,1469,1447,22,85,0
+Montclair city, California,montclair,38954,25785,13169,1811,2350
+Montebello city, California,montebello,62444,38819,23625,2752,3207
+Monterey city, California,monterey,24845,20350,4495,781,128
+Monterey Park city, California,monterey park,60192,27904,32288,1438,2037
+Monte Sereno city, California,monte sereno,3479,2888,591,35,0
+Moorpark city, California,moorpark,36348,30243,6105,975,558
+Moraga town, California,moraga,17459,14873,2586,232,26
+Moreno Valley city, California,moreno valley,206919,155165,51754,13057,7491
+Morgan Hill city, California,morgan hill,44463,36443,8020,769,559
+Morro Bay city, California,morro bay,10366,9834,532,339,110
+Mountain View city, California,mountain view,81484,47077,34407,1173,2473
+Mount Shasta city, California,mount shasta,3275,3145,130,140,0
+Murrieta city, California,murrieta,112366,95260,17106,5085,1043
+Napa city, California,napa,78434,62111,16323,2804,2306
+National City city, California,national,55546,32099,23447,2941,2979
+Needles city, California,needles,4961,4882,79,293,0
+Nevada City city, California,nevada,2884,2854,30,248,16
+Newark city, California,newark,47144,29840,17304,650,298
+Newman city, California,newman,11253,8648,2605,191,192
+Newport Beach city, California,newport beach,85430,73043,12387,1964,374
+Norco city, California,norco,23842,21066,2776,1313,65
+Norwalk city, California,norwalk,104285,68586,35699,5037,3787
+Novato city, California,novato,55426,44320,11106,787,1078
+Oakdale city, California,oakdale,22810,20388,2422,810,57
+Oakland city, California,oakland,423221,309641,113580,16008,14466
+Oakley city, California,oakley,41247,34513,6734,651,170
+Oceanside city, California,oceanside,172681,138269,34412,9027,5616
+Ojai city, California,ojai,7416,6280,1136,364,175
+Ontario city, California,ontario,176286,127082,49204,8034,8542
+Orange city, California,orange,135783,104430,31353,4367,5195
+Orange Cove city, California,orange cove,10274,6623,3651,466,618
+Orinda city, California,orinda,19600,16257,3343,230,0
+Orland city, California,orland,7620,5921,1699,552,242
+Oroville city, California,oroville,17825,16766,1059,925,51
+Oxnard city, California,oxnard,207061,135324,71737,10322,22272
+Pacifica city, California,pacifica,38862,30897,7965,1057,220
+Pacific Grove city, California,pacific grove,15209,13482,1727,426,88
+Palmdale city, California,palmdale,156118,117528,38590,6101,4620
+Palm Desert city, California,palm desert,52383,42340,10043,2025,911
+Palm Springs city, California,palm springs,47664,38160,9504,1754,1396
+Palo Alto city, California,palo alto,66136,42760,23376,716,496
+Palos Verdes Estates city, California,palos verdes estates,13434,10468,2966,74,13
+Paradise town, California,paradise,21841,21322,519,1172,144
+Paramount city, California,paramount,54205,35410,18795,2674,2847
+Parlier city, California,parlier,15312,9006,6306,707,1698
+Pasadena city, California,pasadena,140125,98064,42061,4779,4392
+Patterson city, California,patterson,22013,16376,5637,501,662
+Perris city, California,perris,77134,53717,23417,4058,2790
+Petaluma city, California,petaluma,60116,50631,9485,1404,876
+Pico Rivera city, California,pico rivera,62578,44031,18547,2624,2379
+Piedmont city, California,piedmont,11317,10090,1227,98,14
+Pinole city, California,pinole,19259,14125,5134,612,345
+Pismo Beach city, California,pismo beach,8180,7553,627,335,162
+Pittsburg city, California,pittsburg,71208,48323,22885,2449,1928
+Placentia city, California,placentia,51591,39042,12549,1418,1421
+Placerville city, California,placerville,10432,9726,706,404,99
+Pleasant Hill city, California,pleasant hill,34556,27903,6653,716,326
+Pleasanton city, California,pleasanton,81543,55433,26110,817,802
+Plymouth city, California,plymouth,980,763,217,33,86
+Point Arena city, California,point arena,421,340,81,22,10
+Pomona city, California,pomona,150927,99308,51619,7617,9383
+Porterville city, California,porterville,58820,45645,13175,2519,1791
+Port Hueneme city, California,port hueneme,20869,15971,4898,1494,896
+Portola city, California,portola,1889,1783,106,68,10
+Portola Valley town, California,portola valley,4559,3917,642,64,19
+Poway city, California,poway,49164,39281,9883,1172,620
+Rancho Cordova city, California,rancho cordova,72922,55493,17429,2379,1619
+Rancho Cucamonga city, California,rancho cucamonga,173452,138614,34838,5393,1842
+Rancho Mirage city, California,rancho mirage,18107,15520,2587,343,277
+Rancho Palos Verdes city, California,rancho palos verdes,41984,30432,11552,476,290
+Rancho Santa Margarita city, California,rancho santa margarita,48458,40476,7982,1080,561
+Red Bluff city, California,red bluff,13915,13003,912,822,245
+Redding city, California,redding,90430,84224,6206,4751,607
+Redlands city, California,redlands,70596,60691,9905,2354,830
+Redondo Beach city, California,redondo beach,67221,54100,13121,1597,415
+Redwood City city, California,redwood,84786,55772,29014,1635,2452
+Reedley city, California,reedley,25363,17113,8250,719,1711
+Rialto city, California,rialto,102818,74694,28124,5910,5567
+Richmond city, California,richmond,108968,70490,38478,4269,5820
+Ridgecrest city, California,ridgecrest,28398,25902,2496,789,142
+Rio Dell city, California,rio dell,3373,3341,32,229,0
+Rio Vista city, California,rio vista,8926,7834,1092,116,0
+Ripon city, California,ripon,15694,13832,1862,721,85
+Riverbank city, California,riverbank,24380,18244,6136,506,518
+Riverside city, California,riverside,323895,250320,73575,16025,10897
+Rocklin city, California,rocklin,64575,56805,7770,2239,338
+Rohnert Park city, California,rohnert park,42853,35757,7096,1593,1013
+Rolling Hills city, California,rolling hills,1513,1243,270,25,6
+Rolling Hills Estates city, California,rolling hills estates,8169,6062,2107,140,53
+Rosemead city, California,rosemead,54029,23352,30677,1046,1867
+Roseville city, California,roseville,134908,116290,18618,4126,822
+Ross town, California,ross,2290,2126,164,33,7
+Sacramento city, California,sacramento,496926,386064,110862,15816,10114
+St. Helena city, California,st. helena,6101,4858,1243,177,173
+Salinas city, California,salinas,155107,97156,57951,5794,13958
+San Anselmo town, California,san anselmo,12487,11560,927,102,41
+San Bernardino city, California,san bernardino,208563,160600,47963,10786,11751
+San Bruno city, California,san bruno,42925,26822,16103,919,738
+San Buenaventura (Ventura) city, California,san buenaventura (ventura),108620,93159,15461,4563,2087
+San Carlos city, California,san carlos,30128,24022,6106,320,67
+San Clemente city, California,san clemente,64393,56632,7761,1638,835
+Sand City city, California,sand,299,254,45,13,12
+San Diego city, California,san diego,1372837,1007615,365222,57511,39221
+San Dimas city, California,san dimas,33780,27016,6764,1183,188
+San Fernando city, California,san fernando,24463,15259,9204,1178,1468
+San Francisco city, California,san francisco,870863,572151,298712,17092,9849
+San Gabriel city, California,san gabriel,39576,16994,22582,858,1644
+Sanger city, California,sanger,24955,19021,5934,978,1253
+San Jacinto city, California,san jacinto,47767,38349,9418,3125,1193
+San Joaquin city, California,san joaquin,4020,2095,1925,151,301
+San Jose city, California,san jose,1023950,616675,407275,22499,22621
+San Juan Bautista city, California,san juan bautista,2019,1819,200,42,0
+San Juan Capistrano city, California,san juan capistrano,35856,28169,7687,956,1947
+San Leandro city, California,san leandro,89708,56727,32981,2117,1880
+San Luis Obispo city, California,san luis obispo,47054,42921,4133,1381,679
+San Marcos city, California,san marcos,94936,72102,22834,3044,4505
+San Marino city, California,san marino,13194,7664,5530,53,228
+San Mateo city, California,san mateo,103972,67871,36101,1411,2431
+San Pablo city, California,san pablo,30592,16296,14296,890,2755
+San Rafael city, California,san rafael,58002,42061,15941,1294,2539
+San Ramon city, California,san ramon,75589,47628,27961,824,737
+Santa Ana city, California,santa ana,329547,186156,143391,16807,29629
+Santa Barbara city, California,santa barbara,90942,70672,20270,3355,5232
+Santa Clara city, California,santa clara,127342,71587,55755,1747,1633
+Santa Clarita city, California,santa clarita,213009,168632,44377,6835,3962
+Santa Cruz city, California,santa cruz,64132,54730,9402,2183,774
+Santa Fe Springs city, California,santa fe springs,17750,12861,4889,660,392
+Santa Maria city, California,santa maria,105626,68600,37026,4305,14331
+Santa Monica city, California,santa monica,90811,69535,21276,2437,1181
+Santa Paula city, California,santa paula,30016,21121,8895,1282,1788
+Santa Rosa city, California,santa rosa,177894,141893,36001,6328,6108
+Santee city, California,santee,55366,49567,5799,2219,167
+Saratoga city, California,saratoga,30536,18304,12232,169,53
+Sausalito city, California,sausalito,7103,5951,1152,93,0
+Scotts Valley city, California,scotts valley,11828,10403,1425,168,33
+Seal Beach city, California,seal beach,23823,20115,3708,516,95
+Seaside city, California,seaside,33052,23665,9387,1403,2063
+Sebastopol city, California,sebastopol,7641,7024,617,329,8
+Selma city, California,selma,24556,18376,6180,1225,1527
+Shafter city, California,shafter,18844,13201,5643,634,814
+Shasta Lake city, California,shasta lake,10206,9982,224,858,39
+Sierra Madre city, California,sierra madre,10932,9399,1533,295,83
+Signal Hill city, California,signal hill,11423,8287,3136,471,332
+Simi Valley city, California,simi valley,125618,102889,22729,3994,1462
+Solana Beach city, California,solana beach,13329,11520,1809,676,241
+Soledad city, California,soledad,16890,10893,5997,465,928
+Solvang city, California,solvang,5750,4838,912,334,74
+Sonoma city, California,sonoma,10848,9641,1207,429,11
+Sonora city, California,sonora,4605,4147,458,156,39
+South El Monte city, California,south el monte,20698,11532,9166,867,1526
+South Gate city, California,south gate,94554,54474,40080,5084,7935
+South Lake Tahoe city, California,south lake tahoe,21624,17106,4518,1752,474
+South Pasadena city, California,south pasadena,25543,19194,6349,713,191
+South San Francisco city, California,south san francisco,67291,40168,27123,1281,1069
+Stanton city, California,stanton,38238,21390,16848,1310,2153
+Stockton city, California,stockton,307272,228206,79066,10311,8603
+Suisun City city, California,suisun,29039,22466,6573,1109,409
+Sunnyvale city, California,sunnyvale,152200,78053,74147,1603,3297
+Susanville city, California,susanville,6838,6547,291,242,21
+Sutter Creek city, California,sutter creek,2573,2456,117,76,0
+Taft city, California,taft,8463,7513,950,429,194
+Tehachapi city, California,tehachapi,8390,7672,718,207,90
+Tehama city, California,tehama,481,444,37,15,0
+Temecula city, California,temecula,112301,94460,17841,5543,1145
+Temple City city, California,temple,35613,17817,17796,719,899
+Thousand Oaks city, California,thousand oaks,127418,104137,23281,3472,2193
+Tiburon town, California,tiburon,9113,7479,1634,70,48
+Torrance city, California,torrance,144652,101491,43161,3874,2070
+Tracy city, California,tracy,90495,66128,24367,3162,1922
+Trinidad city, California,trinidad,324,323,1,29,0
+Truckee town, California,truckee,16474,15178,1296,851,322
+Tulare city, California,tulare,63167,51296,11871,2692,2267
+Tulelake city, California,tulelake,842,591,251,19,85
+Turlock city, California,turlock,72389,56319,16070,2146,1192
+Tustin city, California,tustin,79667,54176,25491,2670,2833
+Twentynine Palms city, California,twentynine palms,19899,18420,1479,599,225
+Ukiah city, California,ukiah,15531,12662,2869,605,779
+Union City city, California,union,74585,40890,33695,885,433
+Upland city, California,upland,76189,62369,13820,2611,1612
+Vacaville city, California,vacaville,90559,79285,11274,2943,609
+Vallejo city, California,vallejo,120683,89273,31410,3898,1721
+Vernon city, California,vernon,130,106,24,10,6
+Victorville city, California,victorville,117702,96035,21667,5424,2676
+Villa Park city, California,villa park,5861,4737,1124,51,32
+Visalia city, California,visalia,131174,112642,18532,4359,2264
+Vista city, California,vista,98720,73512,25208,4737,4956
+Walnut city, California,walnut,29871,14960,14911,590,383
+Walnut Creek city, California,walnut creek,68720,52662,16058,954,627
+Wasco city, California,wasco,21600,14457,7143,583,767
+Waterford city, California,waterford,8877,7341,1536,298,79
+Watsonville city, California,watsonville,53531,34266,19265,1355,2334
+Weed city, California,weed,2623,2440,183,137,0
+West Covina city, California,west covina,106058,67805,38253,3413,2454
+West Hollywood city, California,west hollywood,36352,27337,9015,1677,611
+Westlake Village city, California,westlake village,8345,7232,1113,171,15
+Westminster city, California,westminster,90942,50503,40439,2728,2196
+Westmorland city, California,westmorland,2432,1836,596,73,51
+West Sacramento city, California,west sacramento,53026,39366,13660,956,1161
+Wheatland city, California,wheatland,3799,3419,380,209,37
+Whittier city, California,whittier,85554,71264,14290,3799,1117
+Wildomar city, California,wildomar,36257,29967,6290,2077,937
+Williams city, California,williams,5141,3116,2025,323,249
+Willits city, California,willits,4831,4551,280,221,36
+Willows city, California,willows,5840,4656,1184,272,102
+Windsor town, California,windsor,27447,23335,4112,686,278
+Winters city, California,winters,7179,5592,1587,95,200
+Woodlake city, California,woodlake,7622,5306,2316,186,469
+Woodland city, California,woodland,58681,44856,13825,1821,2188
+Woodside town, California,woodside,5542,4584,958,77,0
+Yorba Linda city, California,yorba linda,67504,54135,13369,1185,596
+Yountville city, California,yountville,2542,2231,311,34,5
+Yreka city, California,yreka,7542,7369,173,313,5
+Yuba City city, California,yuba,65232,48813,16419,2832,2265
+Yucaipa city, California,yucaipa,53001,47108,5893,2092,696
+Yucca Valley town, California,yucca valley,21419,19728,1691,1213,115
